@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**braibaud/braibaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working as [Data Science Lead EMEA](https://www.linkedin.com/in/braibaud/) at Ralph Lauren in Geneva, Switzerland.
 
-Here are some ideas to get you started:
+My software projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Related to **Data Science**:
+	
+	- [PWML](https://github.com/braibaud/pwml): Python 3 library useful for training hierarchical classification models on top of [scikit-learn](https://scikit-learn.org/). It also contains a tons of useful helpers for both results representation as well as experiments management using [Neptune](https://neptune.ai/). Deployed on [Pypi](https://pypi.org/project/Pwml/).
+	
+- Related to **Space Exploration**:
+
+  - [Nasa Rover Images](https://github.com/braibaud/nasa-rover-images): A Python project for easing rover images download and images post-processing (e.g. debayering). This is also the place where I post stitched and post-processed images (Python 3 + Jupyter based).
+
+- Related to [Home-Assistant](https://www.home-assistant.io/):
+
+  - [AirThings Integration](https://github.com/braibaud/airthings_integration): Home Assistant custom component for the [AirThings](https://www.airthings.com/) platform integration (Python 3 based).
+  - [AirThings API](https://github.com/braibaud/airthings-api): Python Wrappers for [AirThings](https://www.airthings.com/) public dashboard API (Python 3 based). Deployed on [PyPi](https://pypi.org/project/AirThings-API/).
+
+- **Other** Projects:
+
+  - [ParallelExecution](https://github.com/braibaud/ParallelExecution): A SQL Server solution for parallelizing SQL Server commands (.NET C# based).
+
+  
+
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=braibaud)](https://github-readme-stats.vercel.app/api?username=braibaud)
