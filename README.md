@@ -2,7 +2,7 @@ Hi there 👋
 
 I am currently working as [Data Science Lead EMEA](https://www.linkedin.com/in/braibaud/) at Ralph Lauren in Geneva, Switzerland.
 
-My software projects:
+### My Software Projects
 
 - Related to **Data Science**:
 	
@@ -21,6 +21,8 @@ My software projects:
 
   - [ParallelExecution](https://github.com/braibaud/ParallelExecution): A SQL Server solution for parallelizing SQL Server commands (.NET C# based).
 
-  
+### My Statistics
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=braibaud)](https://github-readme-stats.vercel.app/api?username=braibaud)
+[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=braibaud&count_private=true&show_icons=true&custom_title=Github&card_width=450)](https://github.com/braibaud/braibaud)
+
+[![Ben's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=braibaud&layout=compact&langs_count=3&custom_title=Languages&card_width=450)](https://github.com/braibaud/braibaud)
