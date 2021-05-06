@@ -24,5 +24,3 @@ I am currently working as [Data Science Lead EMEA](https://www.linkedin.com/in/b
 ### My Statistics
 
 [![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=braibaud&count_private=true&show_icons=true&custom_title=Github&card_width=450)](https://github.com/braibaud/braibaud)
-
-[![Ben's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=braibaud&layout=compact&langs_count=3&custom_title=Languages&card_width=450)](https://github.com/braibaud/braibaud)
