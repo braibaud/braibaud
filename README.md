@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am currently working as [Data Science Lead EMEA](https://www.linkedin.com/in/braibaud/) at Ralph Lauren in Geneva, Switzerland.
+I am currently working as [Data Science Lead EMEA](https://www.linkedin.com/in/braibaud/) in Geneva, Switzerland.
 
 ### My Software Projects
 
